@@ -1,6 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/react';
 
-import { Button } from './Button';
+//import Button from '@components/atom/button/Button'
+import { Button } from '@/app/_src/components/atom/button/Button';
 
 // More on how to set up stories at: https://storybook.js.org/docs/writing-stories#default-export
 const meta = {
